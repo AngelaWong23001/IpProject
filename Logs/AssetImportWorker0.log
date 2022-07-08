@@ -1944,3 +1944,27 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8420.239183 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8193726cff86800c54781cdc6d54904') in 0.036369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.868869 seconds.
+  path: Assets/Scenes/UI Scene.unity
+  artifactKey: Guid(8ba0913c1ef342b498dd95089963c009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/UI Scene.unity using Guid(8ba0913c1ef342b498dd95089963c009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16be53b3efb15cfb7b170c1944029e5f') in 0.002058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 214.433472 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd24e9348871f6dd429f1abeae5b3f7d') in 0.003415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.870170 seconds.
+  path: Assets/Scenes/UI Scene.unity
+  artifactKey: Guid(8ba0913c1ef342b498dd95089963c009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/UI Scene.unity using Guid(8ba0913c1ef342b498dd95089963c009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '268b28f34a249ff4708e8fc6caa75893') in 0.002599 seconds 
